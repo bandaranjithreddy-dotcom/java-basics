@@ -5,8 +5,7 @@ import java.util.ArrayList;
 import java.lang.String;
 
 public class ArrayListSpliterator {
-
-	//Hello
+//Hello protect
 	public static void main(String[] args) {
 		ArrayList<String> list = new ArrayList<String>();
 		
